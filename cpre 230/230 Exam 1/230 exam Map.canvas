@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d5a00a6a00a7d227","type":"file","file":"cpre 230/230 Exam 1/Recommended Study Sequence Summary.md","x":-1740,"y":-800,"width":400,"height":540,"color":"5"},
+		{"id":"59786cba55ef2d16","type":"text","text":"1. IP Addressing, Subnetting, Loopback\n\n","x":-1240,"y":-780,"width":380,"height":140}
+	],
+	"edges":[]
+}
